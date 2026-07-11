@@ -1,2 +1,5 @@
-# MattOMadsen.github.io
-GitHub Pages — Skandalen venter (live site)
+# Skandalen venter
+
+Live site: **https://mattomadsen.github.io/**
+
+Kildekode (open source): https://github.com/MattOMadsen/skandalen-venter
